@@ -34,3 +34,5 @@ PagingIEs S1AP-PROTOCOL-IES ::= {
 { ID id-Paging-eDRXInformation CRITICALITY ignore TYPE Paging-eDRXInformation PRESENCE optional}|
 { ID id-extended-UEIdentityIndexValue CRITICALITY ignore TYPE Extended-UEIdentityIndexValue PRESENCE optional},
 ... }
+
+http://www.sharetechnote.com/html/Paging_LTE.html

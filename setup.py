@@ -28,5 +28,6 @@ setup(
     url="https://github.com/bodzio528/py-paging-lte",
     install_requires=[
         'pyasn1',
+        'pyyaml'
     ],
 )
